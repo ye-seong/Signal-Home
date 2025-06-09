@@ -1,6 +1,6 @@
 # 🌌 Signal Home
 > **홀로 남겨진 외계 행성에서 지구와의 연결을 되찾는 1인칭 생존 게임**  
-> *Developed with Unreal Engine 4.27*
+> *Developed with Unity 2023.3*
 
 ---
 
