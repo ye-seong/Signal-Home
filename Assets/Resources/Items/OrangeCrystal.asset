@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1dbb78a69b501048acfb4525e655fb2, type: 3}
+  m_Name: OrangeCrystal
+  m_EditorClassIdentifier: 
+  itemID: 18
+  itemName: "\uC8FC\uD669 \uACB0\uC815"
+  description: "\uD76C\uADC0 \uC5D0\uB108\uC9C0 \uC800\uC7A5 \uACB0\uC815\uCCB4\uB85C
+    \uACE0\uAE09 \uBC30\uD130\uB9AC\uB098 \uC678\uACC4 \uC7A5\uCE58\uC5D0 \uD544\uC694"
+  icon: {fileID: 21300000, guid: f522ca294b642d44eb01d035b41c2777, type: 3}
+  itemPrefab: {fileID: 3878089941639025956, guid: f0b769f7ecf618747b4e6fd288a78c0e, type: 3}
+  itemType: 1
+  ingredients: []
+  bioStateType: 0
+  amount: 0
+  productType: 0
+  batteryUsageRate: 0
+  fuelUsageRate: 0
+  attackPower: 0
+  attackSpeed: 0
+  defensePower: 0
+  durability: 0
+  maxDurability: 0

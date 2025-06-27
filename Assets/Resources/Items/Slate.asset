@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1dbb78a69b501048acfb4525e655fb2, type: 3}
+  m_Name: Slate
+  m_EditorClassIdentifier: 
+  itemID: 23
+  itemName: "\uC11D\uD310"
+  description: "\uBB34\uAE30\uB098 \uB3C4\uAD6C\uB85C \uC9C1\uC811 \uAC00\uACF5\uD560
+    \uC218 \uC788\uB294 \uC6D0\uCD08\uC801 \uC790\uC6D0"
+  icon: {fileID: 21300000, guid: c7116cdd3a31ded408bfb8dbd86a9922, type: 3}
+  itemPrefab: {fileID: 474617480758806824, guid: 1cab0e8f44c48724bbebe5b7800a6b07, type: 3}
+  itemType: 1
+  ingredients: []
+  bioStateType: 0
+  amount: 0
+  productType: 0
+  batteryUsageRate: 0
+  fuelUsageRate: 0
+  attackPower: 0
+  attackSpeed: 0
+  defensePower: 0
+  durability: 0
+  maxDurability: 0

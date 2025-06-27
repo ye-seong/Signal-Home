@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1dbb78a69b501048acfb4525e655fb2, type: 3}
+  m_Name: EmeraldGeode
+  m_EditorClassIdentifier: 
+  itemID: 9
+  itemName: "\uC5D0\uBA54\uB784\uB4DC \uC9C0\uC624\uB4DC"
+  description: "\uBC14\uC704 \uB0B4\uBD80\uC5D0\uC11C \uC790\uB77C\uB098\uB294 \uACB0\uC815\uC73C\uB85C
+    \uD0D0\uC0AC\uB85C \uBC1C\uACAC \uAC00\uB2A5, \uC678\uACC4 \uC7A5\uCE58 \uD575\uC2EC
+    \uC7AC\uB8CC"
+  icon: {fileID: 21300000, guid: e7b4eceaf1e6caf41a08a49807a6ad21, type: 3}
+  itemPrefab: {fileID: 7845831320518996064, guid: b123609d7b86edc488983800275f54bf, type: 3}
+  itemType: 1
+  ingredients: []
+  bioStateType: 0
+  amount: 0
+  productType: 0
+  batteryUsageRate: 0
+  fuelUsageRate: 0
+  attackPower: 0
+  attackSpeed: 0
+  defensePower: 0
+  durability: 0
+  maxDurability: 0

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1dbb78a69b501048acfb4525e655fb2, type: 3}
+  m_Name: BuildingMachine
+  m_EditorClassIdentifier: 
+  itemID: 6
+  itemName: "\uAC74\uCD95\uAE30\uAE30"
+  description: "\uAC74\uCD95\uD558\uB294 \uAE30\uACC4"
+  icon: {fileID: 21300000, guid: 4b48d1c0ee8c22849bb051087e80fa87, type: 3}
+  itemPrefab: {fileID: 1854746156009454070, guid: 9b7075157725b0a4f8aec10aa014cea1, type: 3}
+  itemType: 2
+  ingredients:
+  - {fileID: 11400000, guid: d8b8833c0cc08c247ab7354f830a03ee, type: 2}
+  - {fileID: 11400000, guid: 812eaa22aa96ebb4bbfef9690d20a497, type: 2}
+  - {fileID: 11400000, guid: c87851cc9395f534594eb250e2ae620a, type: 2}
+  - {fileID: 11400000, guid: c87851cc9395f534594eb250e2ae620a, type: 2}
+  bioStateType: 0
+  amount: 10
+  productType: 3
+  attackPower: 0
+  attackSpeed: 0
+  defensePower: 0
+  maxDurability: 0
+  maxBatteryCharge: 0
+  maxFuelAmount: 0
