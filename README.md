@@ -11,11 +11,20 @@
 외계에 있는 재료로 다양한무기 혹은 도구 등을 스캔하고 제작
 
 <div align="center">
-  <img src="/Images/item2.gif" width="600" alt="아이템 스캔 및 제작">
-  <img src="/Images/item3.gif" width="600" alot="나이프 사용">
-  <img src="/Images/item4.gif" width="600" alot="나이프 사용">
+  <img src="/Images/item2.gif" width="600" alt="아이템 스캔">
+  <img src="/Images/item5.gif" width="600" alt="아이템 제작">
 </div>
 
+---
+
+### **애니메이션**
+
+본래 있는 애니메이션을 수정하여 적용 및 키에 따라 애니메이션 변화
+
+<div align="center">
+  <img src="/Images/item3.gif" width="600" alot="나이프 사용">
+  <img src="/Images/item4.gif" width="600" alot="손전등 사용">
+</div>
 
 ---
 
