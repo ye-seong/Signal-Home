@@ -11,8 +11,8 @@
 외계에 있는 재료로 다양한무기 혹은 도구 등을 스캔하고 제작
 
 <div align="center">
-  <img src="/Images/item2.gif" width="600" alt="아이템 스캔">
-  <img src="/Images/item5.gif" width="600" alt="아이템 제작">
+  <img src="Images/item2.gif" width="600" alt="아이템 스캔">
+  <img src="Images/item5.gif" width="600" alt="아이템 제작">
 </div>
 
 ---
