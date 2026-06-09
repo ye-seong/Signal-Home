@@ -22,8 +22,8 @@
 본래 있는 애니메이션을 수정하여 적용 및 키에 따라 애니메이션 변화
 
 <div align="center">
-  <img src="/Images/item3.gif" width="600" alot="나이프 사용">
-  <img src="/Images/item4.gif" width="600" alot="손전등 사용">
+  <img src="Images/item3.gif" width="600" alot="나이프 사용">
+  <img src="Images/item4.gif" width="600" alot="손전등 사용">
 </div>
 
 ---
@@ -33,7 +33,7 @@
 받는 대미지 감소, 환경 적응, 스킬 3개의 모듈로 자신만의 방어구를 커스텀
 
 <div align="center">
-  <img src="/Images/armor1.gif" width="600" alt="모듈">
+  <img src="Images/armor1.gif" width="600" alt="모듈">
 </div>
 
 - **슬롯1: 받는 대미지 감소** - 업그레이드된 모듈일 수록 감소률은 높아짐
@@ -49,8 +49,8 @@
 ### 👽 **외계 생명체 생태계**
 
 <div align="center">
-  <img src="/Images/enemyAttack1.gif" width="300" alt="외계 생명체 1">
-  <img src="/Images/enemyAttack2.gif" width="300" alt="외계 생명체 2">
+  <img src="Images/enemyAttack1.gif" width="300" alt="외계 생명체 1">
+  <img src="Images/enemyAttack2.gif" width="300" alt="외계 생명체 2">
 </div>
 
 - 💣 **Bomber**: 상공에서 폭탄 투하
@@ -68,7 +68,7 @@
 **케플러-442b** **아르카디아**의 도전적인 환경 조건
 
 <div align="center">
-  <img src="/Images/environment1.gif" width="400" alt="행성 환경 1">
+  <img src="Images/environment1.gif" width="400" alt="행성 환경 1">
 </div>
 
 - 🌡️ **극한 온도 변화**: 지형마다 극과 극에 달하는 온도로 생존 난이도 상승
